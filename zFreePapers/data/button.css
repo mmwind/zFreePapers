@@ -1,0 +1,13 @@
+input.button-add-scihub {
+    /*background-image: url(scihub.png);  16px x 16px */
+    background-color: #892323; /* make the button color */
+	color: #FFFFFF; /* make the button transparent */
+	font-weight:bold;
+    background-repeat: no-repeat;  /* make the background image appear only once */
+    background-position: 2px 8px;  /* equivalent to 'top left' */
+    border: 1px solid #000000;           /* assuming we don't want any borders */
+    cursor: pointer;        /* make the cursor like hovering over an <a> element */
+    height: 32px;           /* make this the size of your image */
+   /* padding-left: 16px;      make text start to the right of the image */
+    vertical-align: middle; /* align the text vertically centered */
+}

@@ -1,0 +1,16 @@
+{
+  "title": "ZFreePapers",
+  "name": "zfreepapers",
+  "version": "0.0.1",
+  "description": "Free scientific paper download add-on.",
+  "main": "index.js",
+  "author": "Aleksei Zhukov",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "download","sci-hub","paper","science"
+  ]
+}
